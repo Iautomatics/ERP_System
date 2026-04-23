@@ -221,6 +221,11 @@ Backend Interno
   <img src="https://raw.githubusercontent.com/Iautomatics/ERP_System/main/images/Backend Visualizacion.png" width="750"/>
 </p>
 
+Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iautomatics/ERP_System/main/images/dashboardd.png" width="750"/>
+</p>
+
 ---
 
 ## Autor
