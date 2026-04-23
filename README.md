@@ -211,7 +211,15 @@ GET    /api/reportes/contabilidad/xml/
 
 ## Capturas de Pantalla
 
-> Dashboard con gráficos interactivos, módulos de ventas, compras, inventario y contabilidad con reportes descargables.
+Backend Ingreso
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iautomatics/ERP_System/main/images/Ingreso Backend Usuarios.png" width="750"/>
+</p>
+
+Backend Interno
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iautomatics/ERP_System/main/images/Backend Visualizacion.png" width="750"/>
+</p>
 
 ---
 
