@@ -1,7 +1,9 @@
 # ERP - Sistema de Gestión Empresarial
 
 Sistema ERP completo desarrollado con **Django REST Framework** como backend y **Next.js 16** como frontend. Proyecto construido como solución full-stack para portafolio profesional.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iautomatics/ERP_System/main/images/erp-dashboard.png" width="750"/>
+</p>
 ---
 
 ## Tecnologías
