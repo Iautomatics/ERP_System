@@ -33,7 +33,9 @@ Sistema ERP completo desarrollado con **Django REST Framework** como backend y *
 | **Contabilidad** | Plan de cuentas, asientos automáticos y manuales, balance |
 | **Usuarios** | Gestión de usuarios con roles y permisos |
 | **Seguridad** | Auditoría de accesos, configuración de seguridad |
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iautomatics/ERP_System/main/images/Frontend Visualizacion.png" width="750"/>
+</p>
 ---
 
 ## Arquitectura
